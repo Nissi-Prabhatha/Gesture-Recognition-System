@@ -1,4 +1,3 @@
-# Gesture-Recognition-System
 
 # 🤖 Real-Time Hand Gesture Recognition System
 
