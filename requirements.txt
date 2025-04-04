@@ -1,0 +1,9 @@
+eel == 0.14.0
+opencv-python == 4.5.1.48
+tensorflow == 2.4.1
+pandas == 1.2.3
+pyautogui == 0.9.52
+h5py == 2.10.0
+scikit-learn == 0.23.2
+pydot == 1.4.2
+graphviz == 0.16 # install graphviz also from https://graphviz.org/download/
