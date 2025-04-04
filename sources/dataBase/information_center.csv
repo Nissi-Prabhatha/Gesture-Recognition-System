@@ -1,0 +1,21 @@
+Gestures,Actions,Available Actions
+1, WindowsKey,None
+2, WindowsKey,WindowsKey
+3, NextTrack (Media),Play/Pause (Media)
+4, PreviousTrack (Media),PreviousTrack (Media)
+5, FullScreen (Browser),NextTrack (Media)
+Fist, Refresh (Browser),FullScreen (Browser)
+None,None,Refresh (Browser)
+OK, Search (Browser),Forward (Browser)
+Palm,Play/Pause (Media),Backward (Browser)
+,,Search (Browser)
+,,Home (Browser)
+,,Home (KeyBoard)
+,,ScrollUp
+,,ScrollDown
+,,CapsLock
+,,RightClick
+,,LeftClick
+,,DoubeClick
+,,Mouse Movement
+,,Mouse Drag

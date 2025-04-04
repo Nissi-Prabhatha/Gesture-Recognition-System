@@ -1,0 +1,10 @@
+Gestures,Actions
+1, WindowsKey
+2, WindowsKey
+3, NextTrack (Media)
+4, PreviousTrack (Media)
+5, FullScreen (Browser)
+Fist, Refresh (Browser)
+None,None
+OK, Search (Browser)
+Palm,Play/Pause (Media)
